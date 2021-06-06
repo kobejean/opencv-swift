@@ -3,7 +3,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "OpenCV",
+    name: "opencv-swift",
     platforms: [
         .macOS(.v10_12), .iOS(.v9),
     ],
